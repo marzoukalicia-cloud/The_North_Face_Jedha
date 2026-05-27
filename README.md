@@ -27,16 +27,27 @@ In this project, you'll work with a corpus of item descriptions from The North F
 
 ## Structure of this project 
 The_North_Face_Jedha/
+
 ├── data/
+
 │   └── sample-data.csv
+
 ├── notebook/
+
 │   └── the_north_face_AMK.ipynb
+
 ├── outputs/
+
 │   ├── images/
+
 │   │   ├── logo the north face.png
 
 │   │   └── 08_dbscan_lsa_cross.png
+
 │   └── models/
+
 │       └── tfidf_artifacts.pkl
+
 ├── requirements.txt
+
 └── README.md
